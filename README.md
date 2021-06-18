@@ -1,5 +1,5 @@
 # Instalall:
-
+**Use yarn**
 npm install react-transition-group
 
 # Getting Started with Create React App
